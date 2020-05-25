@@ -1,7 +1,7 @@
 # CheapBank Banksystem auf Kommandozeilenbasis
 
 Mein erstes größeres Projekt
-Geschrieben in Python in Verbindung mit einer SQLite Datenbank
+geschrieben in Python in Verbindung mit einer SQLite Datenbank
 
 Ich wollte eigentlich nur ein wenig SQL lernen doch dann kam ich auf diese Idee
 
